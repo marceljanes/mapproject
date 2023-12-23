@@ -1,0 +1,42 @@
+[{
+    "stop_id": "de:11000:900100007::3",
+    "stop_code": "",
+    "stop_name": "S Oranienburger Str. (Berlin)",
+    "stop_desc": "Ersatzhalt Tucholskystra\u00dfe vor Oranienburger Stra\u00dfe",
+    "stop_lat": "52.524724000000",
+    "stop_lon": "13.392833000000",
+    "location_type": "0",
+    "parent_station": "",
+    "wheelchair_boarding": "0",
+    "platform_code": "",
+    "zone_id": "5555 S Oranienburger Str. (Berlin)",
+    "level_id": "4"
+},
+{
+    "stop_id": "de:12070:900215110:1:50",
+    "stop_code": "",
+    "stop_name": "Bad Wilsnack, Bahnhof",
+    "stop_desc": "Bahnsteig Gleis 2",
+    "stop_lat": "52.960114000000",
+    "stop_lon": "11.949402000000",
+    "location_type": "0",
+    "parent_station": "de:12070:900215110",
+    "wheelchair_boarding": "1",
+    "platform_code": "2",
+    "zone_id": "4533 Bad Wilsnack, Bahnhof",
+    "level_id": "50"
+},
+{
+    "stop_id": "de:12070:900215110:2:51",
+    "stop_code": "",
+    "stop_name": "Bad Wilsnack, Bahnhof",
+    "stop_desc": "Bahnsteig Gleis 3",
+    "stop_lat": "52.960219000000",
+    "stop_lon": "11.949528000000",
+    "location_type": "0",
+    "parent_station": "de:12070:900215110",
+    "wheelchair_boarding": "1",
+    "platform_code": "3",
+    "zone_id": "4533 Bad Wilsnack, Bahnhof",
+    "level_id": "50"
+}]
